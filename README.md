@@ -4,7 +4,7 @@
 
 I'm going to show you all my work on my beatiful experience in the cursus
 
-Duration: 10/8/2024 10/8/2026
+Duration: 10/8/2024 
 
 ## My Projects
 
