@@ -2,7 +2,7 @@
 
 # This is a repo with all my progress on 42 Cursus Malaga.
 
-I'm going to show you all my work on my beatiful experience in the cursus
+This is all my beautiful experience in 42 Málaga.
 
 Duration: In progress
 
