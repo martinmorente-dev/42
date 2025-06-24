@@ -6,8 +6,8 @@ This is all my beautiful experience in 42 Málaga.
 
 Duration: In progress
 
-For the people that doesn't know what is 42. 42 is a programming campus located in 
-[Polo digital](https://www.polodigital.eu/) that it's is that you learn on your own. If you have more interest you can navigate [here](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
+For the people that doesn't know what is Málaga 42. Málaga 42 is a programming campus located in 
+[Polo digital](https://www.polodigital.eu/) which has a difference between the traditional learning...  That is because you need to learn on your own without teachers or lessons just you and your temmates who will play a crucial role on your experience. If you have more interest you can navigate [here](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
 
 ## My Projects
 
