@@ -20,4 +20,4 @@ For the people that doesn't know what is Málaga 42. Málaga 42 is a programming
 | [So Long](https://github.com/martinmorente-dev/So_Long.git) | C | My first game in C | 100
 | [Minitalk](https://github.com/martinmorente-dev/Minitalk.git) | C | Exchange data with UNIX signals | 125
 | [Minishell](https://github.com/martinmorente-dev/minishell.git) | C | Replicate a shell | 100
-| [Philosophers](https://github.com/martinmorente-dev/Philosophers.git) | C | Resolving the philosophers dinning table problem | 100
+| [Philosophers](https://github.com/martinmorente-dev/Philosofers.git) | C | Resolving the philosophers dinning table problem | 100
