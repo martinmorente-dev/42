@@ -18,3 +18,5 @@ For the people that doesn't know what is Málaga 42. Málaga 42 is a programming
 | [GetNextLine](https://github.com/martinmorente-dev/Get_Next_Line.git) | C | When read is not enough | 100
 | [Push Swap](https://github.com/martinmorente-dev/Push_Swap.git) | C | My first algorthym | 100
 | [So Long](https://github.com/martinmorente-dev/So_Long.git) | C | My first game in C | 100
+| [Minitalk](https://github.com/martinmorente-dev/Minitalk.git) | C | Exchange data with UNIX signals | 125
+
